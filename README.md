@@ -29,16 +29,18 @@ The previous Maple scripts were not provided with the published papers mainly be
 Using commercial tools did not allow us in the past to achieve simplification of notebooks as we would like. With an open source tool as SageMath we no longer have this limitation and we may think that we could now achieve this goal of simplification.
 
 ## Examples of SageMath notebooks to do MAE for PDEs
-We provide here examples of using the SageMath tool(the free open-source mathematics software system) to derive those calculations :
-- our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein,
+We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations :
+- our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein. Go to the [vortex_dynamics folder](https://github.com/danielmargerit/SageMAE4PDEs/tree/main/vortex_dynamics) to see this example.
 - we may provide other examples: for instance based on other previously cited papers by migrating what was done in Maple
 
 ## Toward an improvement of using SageMath to do MAE for PDEs
 
-We would be happy to improve those derivations aided by symbolic calculators :
-- by better using capabilities of those calculators
-- by improving the packages of those calculators to provide an efficient package to perform MAE (Matched Asymptotic Expansion) for PDEs (Partial Differential Equations.
-The goal would be that the code to perform such calculations become more robust and provide a much simpler notebook as what we have reached today such that the community having to perform such calculations can use it more easily.
+We would be happy to improve those derivations aided by the SageMath calculators :
+- by better using capabilities of SageMath
+- by improving the packages of SageMath to provide an efficient package to perform MAE (Matched Asymptotic Expansion) for PDEs (Partial Differential Equations.
+
+The goal would be that the code to perform such calculations become more robust and provide a much simpler notebook than we have reached today. 
+We would like that the community having to perform such MAE calculations can use it more easily.
 
 ## How to achieve this ?
 So we can use the provided examples (and maybe others to come):
@@ -46,4 +48,4 @@ So we can use the provided examples (and maybe others to come):
 - to check which capabilities may be already available in SageMath and use them to simplify the current notebooks
 - to describe the requirements that are not covered or partially covered and specify the associated needed capabilities to be developed
 - then do the associated SageMath improvements (if needed)
-- finally simplify the notebook that was provided as an example
+- finally simplify the provided notebook(s)
