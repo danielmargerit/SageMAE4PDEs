@@ -22,11 +22,14 @@ Symbolic calculators have already been used in different researches. For instanc
 	- Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, preprint, february 2024 : the authors used SageMath to cross check the derivation and extension to buoyancy of the Callegari and Ting equation of motion
 - in scroll waves study
 	- Selection of twisted scroll waves in three-dimensional excitable media, D. Margerit, D. Barkley, Phys. Rev. Lett. 86, 175-178, 2001 : the authors used Maple to find the next Order
+- probably others papers (to be investigated)
 
-We provide here examples of using the SageMath (the free open-source mathematics software system) to derive those calculations :
+The previous Maple scripts where not provided with the published papers mainly because they were correct but too complexe and surely not with thge level of quality we would like to have.
+Using commerial tools do not allows us in the past to achieve simplification of notebooks as we would like. With opensource tool as SageMath we have no more this limitation and we may thi,k that we could now achieve this goal of simplification. 
+
+We provide here examples of using the SageMath tool(the free open-source mathematics software system) to derive those calculations :
 - our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein,
-- we may provide other examples: for instance based on other previously cited papers
-
+- we may provide other examples: for instance based on other previously cited papers by migrating what was done in Maple
 
 We would be happy to improve those derivations aided by symbolic calculators :
 - by better using capabilities of those calculators
