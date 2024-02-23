@@ -21,12 +21,12 @@ We provide here examples of using the SageMath tool (the free open-source mathem
 ### Slender Vortex Filament motion
 - **Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [[pdf preprint (to be added)]](slender_vf_in_BA)**
 	- vortex filament derivation 
-	[[download html file]]()
+	[[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.html)
 	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) 
-
+	Remark : download html file and display it in your navigator.
 	: local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
 	- vortex filament equations 
-	[[download html file]]()
+	[[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.html)
 	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
 	: the outcome equations at each orders
 
