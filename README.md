@@ -26,7 +26,6 @@ We provide here examples of using the SageMath tool (the free open-source mathem
 	: local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
 	- vortex filament equations 
 	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb) 
-	[[html]](https://htmlpreview.github.io/?https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.html)
 	: the outcome equations at each orders
 
 
