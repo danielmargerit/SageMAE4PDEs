@@ -19,7 +19,7 @@ It can help to check the validity of the final asymptotic result by replacing it
 ## Examples of SageMath notebooks to do MAE for PDEs
 We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations.
 ### Slender Vortex Filament motion
-Our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [pdf preprint]()
+Our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [[pdf preprint]]()
 - vortex filament derivation (to be added soon)[[ipynb]](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) : 
 	  local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
 - vortex filament equations (to be added soon)[[ipynb]](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb) : the outcomed equations at each orders
@@ -29,22 +29,22 @@ Our first example is the SageMath notebooks used in the paper : Slender vortex f
 Symbolic calculators have already been used in different researches.
 
 ### Slender Vortex Filament motion
-- The Complete First Order Expansion of a Slender Vortex Ring, D. Margerit, J-P. Brancher, IUTAM Symposium on Dynamics of Slender Vortices pp 45–53, held in Aachen, Germany, 31 August – 3 September 1997 : [pdf](https://danielmargerit.github.io/docs/papers/iutam_slender_vortex_dm.pdf)
+- The Complete First Order Expansion of a Slender Vortex Ring, D. Margerit, J-P. Brancher, IUTAM Symposium on Dynamics of Slender Vortices pp 45–53, held in Aachen, Germany, 31 August – 3 September 1997 : [[pdf]](https://danielmargerit.github.io/docs/papers/iutam_slender_vortex_dm.pdf)
 the authors used Maple to rederive the Callegari and Ting equation of motion and find the next Order
-- D. Margerit, Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur, Thèse de doctorat de troisième cycle à l’INPL de Nancy, 6 Nov. 1997, [pdf](https://danielmargerit.github.io/docs/papers/PhDThesis_D.Margerit_1997INPL132N.pdf)
+- D. Margerit, Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur, Thèse de doctorat de troisième cycle à l’INPL de Nancy, 6 Nov. 1997, [[pdf]](https://danielmargerit.github.io/docs/papers/PhDThesis_D.Margerit_1997INPL132N.pdf)
 See chapter 12
-	- MAE for Biot and Savart (to be added soon)[maple notebook](Biot1) : outer matched asymptotic expansion in Biot and Savart integral law to find the outer expansion of the outer velocity near the filament
-	- MAE for desingularised cut of integral (to be added soon)[maple notebook](Cut) : matched asymptotic expansion in Biot and Savart desingularised integral (based on a cut off) to find the outer expansion of the velocity when the cut off parameter is small 
-	- MAE for Biot and Savart (to be added soon)[maple notebook](Biot2) : inner matched asymptotic expansion in Biot and Savart integral law with core thickness to find the expansion of the inner velocity of the filament, the value of this inner velocity on the filament centerline, the value of this velocity at infinity
-	- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[maple notebook](Curviligne) : the different order of the Navier Stokes equations, solving those equations
-	- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[maple notebook](Vorticity) : the different order of the vorticity equations
+	- MAE for Biot and Savart (to be added soon)[[maple notebook]](Biot1) : outer matched asymptotic expansion in Biot and Savart integral law to find the outer expansion of the outer velocity near the filament
+	- MAE for desingularised cut of integral (to be added soon)[[maple notebook]](Cut) : matched asymptotic expansion in Biot and Savart desingularised integral (based on a cut off) to find the outer expansion of the velocity when the cut off parameter is small 
+	- MAE for Biot and Savart (to be added soon)[[maple notebook]](Biot2) : inner matched asymptotic expansion in Biot and Savart integral law with core thickness to find the expansion of the inner velocity of the filament, the value of this inner velocity on the filament centerline, the value of this velocity at infinity
+	- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[[maple notebook]](Curviligne) : the different order of the Navier Stokes equations, solving those equations
+	- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[[maple notebook]](Vorticity) : the different order of the vorticity equations
 
 Those Maple scripts were not provided with the published papers mainly because they were correct but too complexe and surely not with the level of quality we would like to have.
 Using commercial tools did not allow us in the past to achieve simplification of notebooks as we would like. With an open source tool as SageMath we no longer have this limitation and we may think that we could now achieve this goal of simplification.
 
 
 ### Scroll waves study
-- Selection of twisted scroll waves in three-dimensional excitable media, D. Margerit, D. Barkley, Phys. Rev. Lett. 86, 175-178, 2001 : [pdf](https://danielmargerit.github.io/docs/papers/prl.pdf)
+- Selection of twisted scroll waves in three-dimensional excitable media, D. Margerit, D. Barkley, Phys. Rev. Lett. 86, 175-178, 2001 : [[pdf]](https://danielmargerit.github.io/docs/papers/prl.pdf)
 the authors used Maple to find the next Order
 Associated Maple files (to come)
 
