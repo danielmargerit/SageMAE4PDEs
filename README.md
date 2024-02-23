@@ -23,8 +23,6 @@ We provide here examples of using the SageMath tool (the free open-source mathem
 	- vortex filament derivation 
 	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) 
 	: local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
-	NB : if you do not have sagemath, you can test it on [Cocalc](https://cocalc.com/). It has been tested on cocalc with Sagemath 10.2 version.
-	Just download the notebook, put it on your cocalc free account and run it. 
 	- vortex filament equations 
 	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
 	: the outcome equations at each orders
