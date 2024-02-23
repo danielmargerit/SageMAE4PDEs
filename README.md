@@ -29,24 +29,24 @@ We provide here examples of using the SageMath tool (the free open-source mathem
 Symbolic calculators have already been used in different researches.
 
 ### Slender Vortex Filament motion
-	- The Complete First Order Expansion of a Slender Vortex Ring, D. Margerit, J-P. Brancher, IUTAM Symposium on Dynamics of Slender Vortices pp 45–53, held in Aachen, Germany, 31 August – 3 September 1997 : [pdf](https://danielmargerit.github.io/docs/papers/iutam_slender_vortex_dm.pdf)
-	the authors used Maple to rederive the Callegari and Ting equation of motion and find the next Order
-	- D. Margerit, Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur, Thèse de doctorat de troisième cycle à l’INPL de Nancy, 6 Nov. 1997, [pdf](https://danielmargerit.github.io/docs/papers/PhDThesis_D.Margerit_1997INPL132N.pdf)
-	See chapter 12
-		- MAE for Biot and Savart (to be added soon)[maple notebook](Biot1) : outer matched asymptotic expansion in Biot and Savart integral law to find the outer expansion of the outer velocity near the filament
-		- MAE for desingularised cut of integral (to be added soon)[maple notebook](Cut) : matched asymptotic expansion in Biot and Savart desingularised integral (based on a cut off) to find the outer expansion of the velocity when the cut off parameter is small 
-		- MAE for Biot and Savart (to be added soon)[maple notebook](Biot2) : inner matched asymptotic expansion in Biot and Savart integral law with core thickness to find the expansion of the inner velocity of the filament, the value of this inner velocity on the filament centerline, the value of this velocity at infinity
-		- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[maple notebook](Curviligne) : the different order of the Navier Stokes equations, solving those equations
-		- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[maple notebook](Vorticity) : the different order of the vorticity equations
+- The Complete First Order Expansion of a Slender Vortex Ring, D. Margerit, J-P. Brancher, IUTAM Symposium on Dynamics of Slender Vortices pp 45–53, held in Aachen, Germany, 31 August – 3 September 1997 : [pdf](https://danielmargerit.github.io/docs/papers/iutam_slender_vortex_dm.pdf)
+the authors used Maple to rederive the Callegari and Ting equation of motion and find the next Order
+- D. Margerit, Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur, Thèse de doctorat de troisième cycle à l’INPL de Nancy, 6 Nov. 1997, [pdf](https://danielmargerit.github.io/docs/papers/PhDThesis_D.Margerit_1997INPL132N.pdf)
+See chapter 12
+	- MAE for Biot and Savart (to be added soon)[maple notebook](Biot1) : outer matched asymptotic expansion in Biot and Savart integral law to find the outer expansion of the outer velocity near the filament
+	- MAE for desingularised cut of integral (to be added soon)[maple notebook](Cut) : matched asymptotic expansion in Biot and Savart desingularised integral (based on a cut off) to find the outer expansion of the velocity when the cut off parameter is small 
+	- MAE for Biot and Savart (to be added soon)[maple notebook](Biot2) : inner matched asymptotic expansion in Biot and Savart integral law with core thickness to find the expansion of the inner velocity of the filament, the value of this inner velocity on the filament centerline, the value of this velocity at infinity
+	- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[maple notebook](Curviligne) : the different order of the Navier Stokes equations, solving those equations
+	- MAE for the Navier Stokes equations written on local curvilinear coordinates (to be added soon)[maple notebook](Vorticity) : the different order of the vorticity equations
 
 Those Maple scripts were not provided with the published papers mainly because they were correct but too complexe and surely not with the level of quality we would like to have.
 Using commercial tools did not allow us in the past to achieve simplification of notebooks as we would like. With an open source tool as SageMath we no longer have this limitation and we may think that we could now achieve this goal of simplification.
 
 
 ### Scroll waves study
-	- Selection of twisted scroll waves in three-dimensional excitable media, D. Margerit, D. Barkley, Phys. Rev. Lett. 86, 175-178, 2001 : [pdf](https://danielmargerit.github.io/docs/papers/prl.pdf)
-	the authors used Maple to find the next Order
-	Associated Maple files (to come)
+- Selection of twisted scroll waves in three-dimensional excitable media, D. Margerit, D. Barkley, Phys. Rev. Lett. 86, 175-178, 2001 : [pdf](https://danielmargerit.github.io/docs/papers/prl.pdf)
+the authors used Maple to find the next Order
+Associated Maple files (to come)
 
 ### Other papers (To be investigated)
 	- probably others papers 
@@ -73,3 +73,4 @@ So we can use the provided examples (and maybe others to come):
 - finally simplify the provided notebook(s)
 
 ## Bibliography (To be investigated)
+xxxx
