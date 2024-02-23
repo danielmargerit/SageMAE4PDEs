@@ -19,7 +19,7 @@ It can help to check the validity of the final asymptotic result by replacing it
 ## Examples of SageMath notebooks to do MAE for PDEs
 We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations.
 ### Slender Vortex Filament motion
-Our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [[pdf preprint (to be added)]]()
+Our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [[pdf preprint (to be added)]](slender_vf_in_BA)
 - vortex filament derivation (to be added soon)[[ipynb]](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) : 
 	  local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
 - vortex filament equations (to be added soon)[[ipynb]](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb) : the outcomed equations at each orders
@@ -49,7 +49,7 @@ the authors used Maple to find the next Order
 Associated Maple files (to come)
 
 ### Other papers (To be investigated)
-	- probably others papers 
+xxxx
 
 Those  Maple scripts were not provided with the published papers mainly because they were correct but too complexe and surely not with the level of quality we would like to have.
 Using commercial tools did not allow us in the past to achieve simplification of notebooks as we would like. With an open source tool as SageMath we no longer have this limitation and we may think that we could now achieve this goal of simplification.
