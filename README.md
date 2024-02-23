@@ -20,9 +20,9 @@ It can help to check the validity of the final asymptotic result by replacing it
 We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations.
 ### Slender Vortex Filament motion
 Our first example is the SageMath notebooks used in the paper : Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [pdf preprint]()
-- vortex filament derivation (to be added soon)[ipynb](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) : 
+- vortex filament derivation (to be added soon)[[ipynb]](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) : 
 	  local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
-- vortex filament equations (to be added soon)[ipynb](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb) : the outcomed equations at each orders
+- vortex filament equations (to be added soon)[[ipynb]](https://nbviewer.jupyter.org/github.com/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb) : the outcomed equations at each orders
 ### Other examples (To be done)
 
 ## Old first examples of using symbolic calculators in MAE for PDEs (with Maple)
