@@ -83,4 +83,9 @@ So we can use the provided examples (and maybe others to come):
 ## Bibliography (To be investigated)
 -[Asymptotic expansions] (https://doc.sagemath.org/pdf/en/reference/asymptotic/asymptotic.pdf), 10.2, the sage development team 
 -[Manifolds](https://doc.sagemath.org/pdf/en/reference/manifolds/manifolds.pdf), 10.2, the sage development team 
+- [Asymptotic matching by the symbolic manipulator MACSYMA] (https://www.sciencedirect.com/science/article/abs/pii/0021999185900592?via%3Dihub), Lilian L Lo ,  Journal of Computational Physics, Volume 61, Issue 1, October 1985, Pages 38-50
+-[Tools for the Symbolic Computation of Asymptotic Expansions](https://academic.oup.com/jrsssb/article-abstract/55/3/613/7028284?redirectedFrom=fulltext), David F. Andrews and James E. Stafford, Journal of the Royal Statistical Society. Series B (Methodological), 
+Vol. 55, No. 3 (1993), pp. 613-627 (15 pages), Oxford University Press
+- [The Asymptotic Expansion Method via Symbolic Computation](https://www.hindawi.com/journals/jam/2012/201340/), 
+Juan F. Navarro, Journal of Applied Mathematics, Volume 2012, Article ID 201340, 24 pages, doi:10.1155/2012/201340
 - xxx
