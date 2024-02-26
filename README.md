@@ -81,4 +81,6 @@ So we can use the provided examples (and maybe others to come):
 - finally simplify the provided notebook(s)
 
 ## Bibliography (To be investigated)
-xxxx
+-[Asymptotic expansions] (https://doc.sagemath.org/pdf/en/reference/asymptotic/asymptotic.pdf), 10.2, the sage development team 
+-[Manifolds](https://doc.sagemath.org/pdf/en/reference/manifolds/manifolds.pdf), 10.2, the sage development team 
+- xxx
