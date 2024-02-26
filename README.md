@@ -32,7 +32,7 @@ We provide here examples of using the SageMath tool (the free open-source mathem
 		- you can download html file and display it in your navigator. 
 		- you can read and run the notebook if you have Sagemath 9.3
 		- or (if you have not Sagemath) you can use [Cocalc](https://cocalc.com/share/public_paths/page/1) : just select the option "paste a URL to a GitHub repository or Gist." and copy/paste https://github.com/sagemanifolds/SageManifolds/tree/master/Notebooks/VectorCalculus 
-		or follow [this link](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics) 
+		or follow [this link](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/tree/main/Notebooks/vortex_dynamics). 
 		 You can then also edit your own copy and run step by step (NB: one of the used function in sagemath 9.3 was deprecieted in current version of Sagemath 10.2 : we have planned to migrate soon the notebook to v10.2 version)
 
 
