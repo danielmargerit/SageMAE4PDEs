@@ -90,4 +90,6 @@ Vol. 55, No. 3 (1993), pp. 613-627 (15 pages), Oxford University Press
 Juan F. Navarro, Journal of Applied Mathematics, Volume 2012, Article ID 201340, 24 pages, doi:10.1155/2012/201340
 - [Algorithm in SageMath to find determining equations of infinitesimals admitted by partial differential equations](https://bharataganitaparisad.com/wp-content/uploads/2022/02/712-ch11.pdf), 
 Vishwas Khare 1 and M.G. Timol 2 , GANITA, Vol.71(2), 2021, 111 - 124 
+- [Formal solutions of singularly-perturbed linear differential systems](https://www.sciencedirect.com/science/article/pii/S0747717118300944), Moulay A. Barkatou, Suzy S. Maddah b,Journal of Symbolic Computation
+Volume 94, September–October 2019, Pages 183-209 
 - xxx
