@@ -88,8 +88,10 @@ So we can use the provided examples (and maybe others to come):
 - finally simplify the provided notebook(s)
 
 ## Bibliography (To be investigated)
+Sage packages which may be used: 
 - [Asymptotic expansions](https://doc.sagemath.org/pdf/en/reference/asymptotic/asymptotic.pdf), 10.2, the sage development team 
 - [Manifolds](https://doc.sagemath.org/pdf/en/reference/manifolds/manifolds.pdf), 10.2, the sage development team 
+Papers related to key-words : Computer algebra (system) CAS, symbolic simulation, algebraic computation + Matched Asymptotic expansions + PDEs
 - [Asymptotic matching by the symbolic manipulator MACSYMA](https://www.sciencedirect.com/science/article/abs/pii/0021999185900592?via%3Dihub), Lilian L Lo ,  Journal of Computational Physics, Volume 61, Issue 1, October 1985, Pages 38-50
 - [Tools for the Symbolic Computation of Asymptotic Expansions](https://academic.oup.com/jrsssb/article-abstract/55/3/613/7028284?redirectedFrom=fulltext), David F. Andrews and James E. Stafford, Journal of the Royal Statistical Society. Series B (Methodological), 
 Vol. 55, No. 3 (1993), pp. 613-627 (15 pages), Oxford University Press
