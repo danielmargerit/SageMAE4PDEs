@@ -19,7 +19,7 @@ It can help to check the validity of the final asymptotic result by replacing it
 ## Examples of SageMath notebooks to do MAE for PDEs
 We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations.
 ### Slender Vortex Filament motion
-- **Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [[pdf preprint (to be added)]](slender_vf_in_BA)**
+- **Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [arXiv:2403.00460 [physics.flu-dyn]](https://arxiv.org/abs/2403.00460)**
 	- vortex filament derivation 
 	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb)
 	[[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.html)
