@@ -1,0 +1,2 @@
+*.py linguist-language=Python
+*.sage linguist-language=Python
